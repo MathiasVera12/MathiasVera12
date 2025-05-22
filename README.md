@@ -41,7 +41,7 @@
 ## ✨ Extra: mi mood al programar
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif](https://giphy.com/gifs/work-computer-laptop-TLnWsIBRegQyWxG4D)" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE5aWV1ZGkzZW91eWhqNHJ2aGgzNzRhNDFtYjllbmQwZmQzNDRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLnWsIBRegQyWxG4Dw/giphy.gif" width="300" />
 </p>
 
 ---
