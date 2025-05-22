@@ -1,34 +1,58 @@
-# 👋 ¡Hola, mundo! Soy Mathias
-
-🎓 Estudiante de **Ingeniería en Software**  
-🚀 Apasionado por el desarrollo tecnológico y la creación de ideas que cobren vida  
-
----
-
-## 💡 Sobre mí
-Soy una persona **responsable, analítica y organizada**, cualidades que me han ayudado a abordar desafíos de manera estructurada y eficiente.  
-Me encanta trabajar en equipo, compartir ideas innovadoras y colaborar sin complicaciones para alcanzar objetivos comunes.
-
-### 🌟 Mis intereses:
-- Desarrollo Web & Móvil
-- Resolución de problemas y optimización de procesos
-- Proyectos personales y freelance
-
-### 🛠️ Tecnologías favoritas:
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?logo=.net&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-purple?logo=.net&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+<!-- Encabezado animado -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <h1>¡Hola, mundo! 👋 Soy Mathias Vera</h1>
+  <p>🧑‍💻 Estudiante de Ingeniería en Software | 💡 Apasionado por el desarrollo Fullstack</p>
+</div>
 
 ---
 
-## 🌱 Actualmente
-Complemento mis estudios con **proyectos personales y freelance** en desarrollo **Fullstack**, bases de datos y buenas prácticas de ingeniería de software.  
-Siempre en busca de **nuevas oportunidades, conexiones y aprendizajes.**
+## 🧠 Sobre mí
+
+🎓 Soy una persona responsable, analítica y organizada.  
+💬 Me encanta compartir ideas, colaborar sin complicaciones y encontrar soluciones efectivas.  
+🎯 Busco oportunidades para crecer como desarrollador y trabajar en proyectos que impacten.
+
+---
+
+## ⚙️ Tecnologías que uso o estoy aprendiendo
+
+### 🧩 Lenguajes
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧱 Frameworks y librerías
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🗃️ Bases de datos
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## ✨ Extra: mi mood al programar
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300" />
+</p>
 
 ---
 
 ## 🤝 ¡Conectemos!
-✨ Abierto a colaborar en proyectos interesantes o a compartir ideas sobre tecnología.
+
+- 📧 veramorenomathias@gmail.com
+- 📧 mathias.vera@udla.edu.ec 
+- 💬 Abierto a colaboraciones, proyectos freelance o simplemente conversar sobre tecnología
 
 ---
+
+> ⭐ *Gracias por pasar por mi perfil. ¡Explora mis proyectos y veamos qué podemos construir juntos!*
