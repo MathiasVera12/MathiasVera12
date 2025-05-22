@@ -1,4 +1,3 @@
-<!-- Encabezado animado -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <h1>¡Hola, mundo! 👋 Soy Mathias Vera</h1>
@@ -42,7 +41,7 @@
 ## ✨ Extra: mi mood al programar
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300" />
+  <img src="[https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif](https://giphy.com/gifs/work-computer-laptop-TLnWsIBRegQyWxG4D)" width="300" />
 </p>
 
 ---
@@ -50,7 +49,8 @@
 ## 🤝 ¡Conectemos!
 
 - 📧 veramorenomathias@gmail.com
-- 📧 mathias.vera@udla.edu.ec 
+- 📧 mathias.vera@udla.edu.ec
+- 👔 www.linkedin.com/in/mathias-vera-moreno-25b5ab319
 - 💬 Abierto a colaboraciones, proyectos freelance o simplemente conversar sobre tecnología
 
 ---
